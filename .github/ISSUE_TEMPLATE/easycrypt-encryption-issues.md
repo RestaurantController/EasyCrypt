@@ -1,6 +1,6 @@
 ---
 name: EasyCrypt Encryption Issues
-about: Describe this issue template's purpose here.
+about: Have issues with encryption? Click here
 title: ''
 labels: ''
 assignees: ''
