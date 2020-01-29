@@ -1,6 +1,6 @@
 ---
 name: EasyCrypt Decryption Issues
-about: Describe this issue template's purpose here.
+about: Have issues about decryption? Click here.
 title: ''
 labels: ''
 assignees: ''
