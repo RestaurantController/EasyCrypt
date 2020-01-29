@@ -1,7 +1,7 @@
 # EasyCrypt
 Open Soruce File Encryption Software Written In Python
 <br>
-IMPORTANT: The file encoding must be UTF-8. Otherwise encryption will fail or the file will get corrupted.
+IMPORTANT: The file encoding must be UTF-8. Otherwise encryption will fail or the file may get corrupted.
 <br>
 You can encrypt files easily with this software. It uses the "key file" method.
 <br>
