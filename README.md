@@ -1,4 +1,5 @@
 # EasyCrypt
+<a href="https://restaurantcontroller.github.io/EasyCrypt/">Home</a> <a href="https://restaurantcontroller.github.io/EasyCrypt/downloads.html">Downloads</a>
 Open Soruce File Encryption Software Written In Python
 <br>
 IMPORTANT: The file encoding must be UTF-8. Otherwise encryption will fail or the file may get corrupted.
