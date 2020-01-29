@@ -4,7 +4,7 @@ Open Soruce File Encryption Software Written In Python
 You can encrypt files easily with this software. It uses the "key file" method.
 <br>
 
-For EasyCrypt to run correctly, you must install the <code>cryptography</code> plugin in Python. You can do it easily by using pip:
+For EasyCrypt to run correctly, you must install the <code>cryptography</code> plugin in Python. You can easily do it by using pip:
 <br>
 <code>pip install cryptography</code>
 <br>
