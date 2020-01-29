@@ -25,3 +25,5 @@ And then specify the key file
 That's it! You can encrypt and decrypt files with EasyCrypt.
 <br>
 <b>Note:</b> While decrypting an encrypted file, you must specify the same key you used to encrypt that file. If not it will fail and give an <code>InvalidToken</code> error message.
+
+The EasyCrypt files are located in the <code>EasyCrypt</code> folder.
