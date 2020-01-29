@@ -28,6 +28,6 @@ That's it! You can encrypt and decrypt files with EasyCrypt.
 <br>
 <b>Note:</b> While decrypting an encrypted file, you must specify the same key you used to encrypt that file. If not it will fail and give an <code>InvalidToken</code> error message.
 <br>
-You can download EasyCrypt from the <a href="https://github.com/RestaurantController/EasyCrypt/releases">Releases</a> page.
+You can download EasyCrypt from the <a href="https://restaurantcontroller.github.io/EasyCrypt/downloads.html">Downloads</a> page.
 
 Need help? Create an issue.
