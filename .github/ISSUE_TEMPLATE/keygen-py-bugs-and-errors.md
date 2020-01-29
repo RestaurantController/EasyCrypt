@@ -1,6 +1,6 @@
 ---
 name: Keygen.py Bugs And Errors
-about: Describe this issue template's purpose here.
+about: Having problems with Keygen.py? Click here
 title: "[BUG]"
 labels: ''
 assignees: ''
