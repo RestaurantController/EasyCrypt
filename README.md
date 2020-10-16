@@ -30,6 +30,4 @@ That's it! You can encrypt and decrypt files with EasyCrypt.
 You can download EasyCrypt from the <a href="https://restaurantcontroller.github.io/EasyCrypt/downloads.html">Downloads</a> page.
 
 <br>
-<b>UPDATE:</b> A new version of EasyCrypt is coming soon that uses AES encryption!
-<br>
 Need help? Create an issue.
