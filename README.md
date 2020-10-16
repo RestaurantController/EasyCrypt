@@ -1,11 +1,7 @@
 <a href="https://restaurantcontroller.github.io/EasyCrypt/">Home</a> <a href="https://restaurantcontroller.github.io/EasyCrypt/downloads.html">Downloads</a>
 <br>
 # EasyCrypt
-ANNOUCEMENT: You can now use our QuickInstall program to get up and running quickly. See more at the downloads page.
-Open Soruce File Encryption Software Written In Python
-<br>
-IMPORTANT: The file encoding must be UTF-8. Otherwise encryption will fail or the file may get corrupted.
-<br>
+<b>IMPORTANT: This repo is no longer actively maintained and might not be secure. Please use <a href="https://github.com/okyanusoz/EasyCrypt-AES">EasyCrypt-AES</a> instead.<br>
 You can encrypt files easily with this software. It uses the "key file" method.
 <br>
 
