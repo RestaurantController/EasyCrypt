@@ -1,7 +1,8 @@
 <a href="https://restaurantcontroller.github.io/EasyCrypt/">Home</a> <a href="https://restaurantcontroller.github.io/EasyCrypt/downloads.html">Downloads</a>
 <br>
 # EasyCrypt
-<b>IMPORTANT: This repo is no longer actively maintained and might not be secure. Please use <a href="https://github.com/okyanusoz/EasyCrypt-AES">EasyCrypt-AES</a> instead.<br>
+<h1>Deprecated</h1>
+<b>This repo is no longer actively maintained and might not be secure. Please use <a href="https://github.com/okyanusoz/EasyCrypt-AES">EasyCrypt-AES</a> instead.<br>
 You can encrypt files easily with this software. It uses the "key file" method.
 <br>
 
