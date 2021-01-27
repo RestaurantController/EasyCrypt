@@ -1,4 +1,4 @@
-<a href="https://restaurantcontroller.github.io/EasyCrypt/">Home</a> <a href="https://restaurantcontroller.github.io/EasyCrypt/downloads.html">Downloads</a>
+<a href="https://okyanusoz.github.io/EasyCrypt/">Home</a> <a href="https://okyanusoz.github.io/EasyCrypt/downloads.html">Downloads</a>
 <br>
 # EasyCrypt
 <h1>Deprecated</h1>
