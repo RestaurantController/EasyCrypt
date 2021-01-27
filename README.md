@@ -2,7 +2,7 @@
 <br>
 # EasyCrypt
 <h1>Deprecated</h1>
-<b>This repo is no longer actively maintained and might not be secure. Please use <a href="https://github.com/okyanusoz/EasyCrypt-AES">EasyCrypt-AES</a> instead.<br><br><br>
+<b>This project is no longer maintained and might not be secure. Please use <a href="https://github.com/okyanusoz/EasyCrypt-AES">EasyCrypt-AES</a> instead.<br><br><br>
 You can encrypt files easily with this software. It uses the "key file" method.
 <br>
 
